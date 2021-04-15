@@ -9,11 +9,11 @@
 
 <body>
   <header>
-	  <h1>Logo</h1>
+	  <h1>Hello Human</h1>
   </header>
   <main>
-	  <h2>Header 1</h2>
-	    <p>Paragraph 1</p>
+	  <h2>Hey Header</h2>
+	    <p>Hey, hi, hello, howdy.</p>
   </main>
   <footer>
 	  <p>Footer Nav</p>
